@@ -1,2 +1,3 @@
 # VLANs
 VLAN Configuration
+SEE PDF FOR LAB INSTRUCTIONS
